@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The churches duty, for received mercies. Discovered in a sermon preached before the Honourable House of Commons: at Margarets Westminster, Feb. 24. 1646. being the day of the solemne monthly fast. / By John Greene Minister of Gods Word, and a member of the Assembly of Divines.</title>
+            <author>Greene, John, Master of Arts.</author>
+         </titleStmt>
+         <extent>Approx. 84KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85657</idno><idno type="EEBO-CITATION">99861893</idno>
+  <idno type="VID">114039</idno>
+  <idno type="EEBO-PROQUEST">2240956800</idno>
+  
+            <idno type="STC">Wing G1820</idno>
+            <idno type="STC">Thomason E377_26</idno>
+            <idno type="STC">ESTC R201370</idno>
+            <idno type="PROQUEST">99861893</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861893e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114039)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The churches duty, for received mercies. Discovered in a sermon preached before the Honourable House of Commons: at Margarets Westminster, Feb. 24. 1646. being the day of the solemne monthly fast. / By John Greene Minister of Gods Word, and a member of the Assembly of Divines.</title>
+                  <author>Greene, John, Master of Arts.</author>
+               </titleStmt>
+               <extent>[8], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.B. for Philemon Stephens, and are to bee sold at his shop at the gilded Lion in Pauls Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary imprimatur leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Samuel, 1st XII, 24 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="order">
+            <pb facs="tcp:114039:1"/>
+            <head>
+               <hi>Die Mercurij</hi> 24th. Februarij. 1646.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by the Commons Assembled in Parliament, That Sir <hi>Robert Harley</hi> do from this House give thankes unto Master <hi>Greene,</hi> for the great paines he tooke in his Sermon preached on this day at <hi>Marga<g ref="char:EOLhyphen"/>rets Westminster</hi> before the House of Commons; and that he do desire him to print his Sermon: wherein, hee is to have the like priviledge in printing of it, as others in the like kinde usual<g ref="char:EOLhyphen"/>ly have had.</p>
+            <closer>
+               <signed>H. Elsing Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment">
+            <p>I doe appoint <hi>Philemon Stephens</hi> to print my Sermon.</p>
+            <closer>
+               <signed>JOHN GREENE.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:114039:1"/>
+            <p>THE CHVRCHES Duty, for received Mercies.</p>
+            <p>Discovered in a SERMON Preached before the Honourable House OF COMMONS: At <hi>Margarets Westminster,</hi> FEB. 24. 1646. being the day of the solemne Monthly FAST.</p>
+            <p>By <hi>JOHN GREENE</hi> Minister of GODS Word, and a Member of the Assembly of DIVINES.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>DEUT. 4.7.</hi>
+                  </bibl> For what Nation is so great, who hath God so nigh unto them, as the Lord our God is in all things that wee call upon him for.</p>
+               <p>
+                  <bibl>
+                     <hi>VER. 10, 12.</hi>
+                  </bibl> And now Israel what doth the Lord thy God re<g ref="char:EOLhyphen"/>quire of thee, but to feare the Lord thy God, to walke in all his wayes, and to love him, and to serve the Lord thy God with all thy heart, and with all thy soule.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F. B.</hi> for <hi>Philemon Stephens,</hi> and are to bee sold at his shop at the gilded Lion in <hi>Pauls</hi> Church-Yard. 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114039:2"/>
+            <pb facs="tcp:114039:2"/>
+            <head>To the Honourable House OF COMMONS, now Assembled in Parliament</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is not any more inriching act of the Soule,
+<note place="margin">Medita<g ref="char:EOLhyphen"/>tio men<g ref="char:EOLhyphen"/>tis dista<g ref="char:EOLhyphen"/>tio.</note> or of greater prevalencie to provoke unto du<g ref="char:EOLhyphen"/>ty, then the Soules reflection upon it selfe by meditation, if serious: nor any more work<g ref="char:EOLhyphen"/>ing this way, then the distinct considerati<g ref="char:EOLhyphen"/>on of what God hath bin to us, what wee to God; what our receivings from him, what our returns unto him. <hi>David</hi> in one psalm calleth up his soule to this duty,
+<note place="margin">Psa. 103.2.</note>
+               <hi>Blesse the Lord ô my soule, and forget not all his benefits;</hi> in another consults with him selfe, how he may doe it,
+<note place="margin">116, 12.</note>
+               <hi>what shall I ren<g ref="char:EOLhyphen"/>der unto the Lord, for all his benefits towards mee?</hi> We have the Creatures
+<pb facs="tcp:114039:3"/>leading us <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the way unto this duty. <hi>First,</hi> by what they are mutually to each other; what water the earth receiveth from the sea in small springs, it returneth in great ri<g ref="char:EOLhyphen"/>vers; what vapours and exhalations the ce<g ref="char:EOLhyphen"/>lestiall bodies draw up from the earth, they send down (though sometimes in storms) yet ordinarily in refreshing deaws &amp; fruit<g ref="char:EOLhyphen"/>full showres. <hi>Secondly,</hi> By what they are to man;
+<note place="margin">1 Cor. 9.7.</note> doth not the <hi>Vineyard we plant, yeeld us fruit? The flocke wee feede afford us milke?</hi>
+               <note place="margin">Isa. 55.10.</note> the ground we manure and till, <hi>give seed to the sower, and bread to the eater? Thirdly,</hi> By what they are to God;
+<note place="margin">Psal. 19.1.</note> Doe not <hi>the hea<g ref="char:EOLhyphen"/>vens declare the glory of God?</hi> doth not that which may seem most unruly,
+<note place="margin">1, 8, 8.</note>
+               <hi>stor<g ref="char:EOLhyphen"/>my wind fulfill his word?</hi> It was a di<g ref="char:EOLhyphen"/>vine saying of that heathenish Philosopher <hi>Epictetus,</hi>
+               <note place="margin">Alsted. Theol. nat.</note> admiring the singing of birds, <hi>si luscinia essem,</hi> &amp;c If I had bin made a Nightingale, I should have sung like a
+<pb facs="tcp:114039:3"/>Nightingale; now that I am made a man, a reasonable creature, shall J not praise and serve God in that station wherin he hath set me? <hi>Origen</hi> conceiveth, that one of the foulest and shamfulest things that the crea<g ref="char:EOLhyphen"/>tures shall lay to mans charge at the day of judgment, is, that all other creatures from the Creation have beene obedient to God without the least digression; only man (for whose service all else made) hath failed in his service, and proved rebellious. To quicken us unto that service, which God in our places requireth, was the principall drift of my weake meditations, so unwor<g ref="char:EOLhyphen"/>thy your eare, as J know not how they may endure your eye; wherof though I may say, as is reported of <hi>Malcotius</hi> a governour of the Turks under <hi>Mahomet</hi> the great (as it was also of <hi>Augustus</hi>) that the majesty of his countenance, with the resplendent beames issuing from his eyes, was of such piercing brightnesse, that no man was able
+<pb facs="tcp:114039:4"/>with an immoved and fixed eye long to be<g ref="char:EOLhyphen"/>hold the same: yet that benign aspect &amp; fa<g ref="char:EOLhyphen"/>vourable acceptance which those find whom you call out to your service, your present commands also requiring it, give incourag<g ref="char:EOLhyphen"/>ment to tender my poore endeavours to the publicke view; wherby if any the more pro<g ref="char:EOLhyphen"/>voked to render unto God, according to all that good they have received from God, let all the glory bee the Lords, who worketh when, and where, and by whom he pleaseth; for whose mercifull assistance, direction and blessing in and upon your pious consul<g ref="char:EOLhyphen"/>tations and resolutions, are and shall be the constant and continued prayers of</p>
+            <closer>
+               <signed>
+                  <hi>The unworthiest of those devoted to Your service,</hi> John Greene.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Some few faults have escaped in the Authors absence, which may be thus corrected. Though few of them will interrupt the Reader.</head>
+            <p>PAge 8. <hi>l.</hi> 31. <hi>r.</hi> malice, <hi>p.</hi> 10. <hi>l.</hi> 26. Deu. 32.4. <hi>l.</hi> 29. Ioh. 14.6. <hi>p.</hi> 11. <hi>m.</hi> Ioh. 4.23, 24. <hi>p.</hi> 13. <hi>r</hi> fleshie, <hi>p.</hi> 14. <hi>r.</hi> observed, <hi>l.</hi> 7. <hi>r. is est quisque, p.</hi> 15. m. <hi>Ma<g ref="char:EOLhyphen"/>ginus, p.</hi> 17 <hi>l.</hi> 18. <hi>m.</hi> 86.11. <hi>p.</hi> 19. <hi>l.</hi> 25. 2dly, <hi>p.</hi> 21. <hi>r.</hi> victories, <hi>p.</hi> 22. <hi>m.</hi> Isa. 63.9, 10. <hi>p.</hi> 23. <hi>m.</hi> Isa. 9.10. Psa 80.13. <hi>p.</hi> 25. <hi>r.</hi> impaired, <hi>l.</hi> 23. <hi>r.</hi> those, <hi>p.</hi> 26. <hi>m. l.</hi> 2. <hi>cent.</hi> 3. <hi>l.</hi> 19. <hi>r.</hi> flow, <hi>l.</hi> 25. <hi>r.</hi> as like <hi>p.</hi> 27. <hi>r. Lacedae monians,</hi> 28. <hi>l.</hi> 1. Heb. 4.13. <hi>m.</hi> l. 5. 2dly, <hi>l.</hi> 29. the Island <hi>Scyrus, p.</hi> 30 blot out of, <hi>p.</hi> 31. <hi>l.</hi> 22. <hi>r.</hi> oppressours, <hi>l.</hi> 32 <hi>r.</hi> for shelter, <hi>p.</hi> 33. <hi>r.</hi> comfortably, <hi>p.</hi> 35. <hi>r.</hi> effect, <hi>l.</hi> 24. and glorious, <hi>p.</hi> 36. <hi>l.</hi> 19. is come. <hi>p.</hi> 36. r. <hi>Nathanael.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:114039:4"/>
+            <head>The Churches duty, for received Mercies. In a Sermon preached before the Honourable House of COMMONS. <hi>Febr.</hi> 24. 1647.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 SAMUEL 12.24.</hi>
+                  </bibl>
+                  <p>Only feare the Lord, and serve him in truth, with all your heart; for consider what great things he hath done for you.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Ermons formerly in this place upon these dayes were much for stirring up un<g ref="char:EOLhyphen"/>to service in the cause of God, Re<g ref="char:EOLhyphen"/>ligion and the Kingdome: The Lord having comfortably and successefully wrought that, I conceive such Texts will not now be thought unseasonable, which may afford matter
+<pb n="2" facs="tcp:114039:5"/>of incitement to worke our hearts unto the service of GOD; to this the words read chiefly drive, be<g ref="char:EOLhyphen"/>ing part of <hi>Samuels</hi> councell to the people of <hi>Israel,</hi>
+               <note place="margin">1 Samuel 8.7.</note> who though rejected by them yet continues his love unto them (others neglect of us, may not excuse our failings to them.) Their request in a former verse of this Chapter to <hi>Samuel</hi> was,
+<note place="margin">Verse 19.</note> that <hi>he would pray for them; Samuel</hi> doth more, (Religious hearts in du<g ref="char:EOLhyphen"/>ties of piety will strive rather to out goe the desires of others, then fall short) hee doth not only in the verse before the Text professe his readinesse to pray for them; but his care also to teach them, pray for pardon of their errours past, set them in a way to prevent miscarriage for the time to come:
+<note place="margin">Josh. 1.8.</note> and the way worth harkning to; it is first, <hi>A good way,</hi> that is say Interpreters, much for your good, a prospe<g ref="char:EOLhyphen"/>rous way,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and the Hebrew word will beare this sence: Secondly, <hi>A right way,</hi> which if we keep, no feare of being misled.</p>
+            <p>What this good and right way is, hee sheweth in the words read,
+<note place="margin">Josh. 24.14.</note>
+               <hi>Feare the Lord and serve him, &amp;c.</hi> the paths are two, though <hi>Masius</hi> upon the place of <hi>Josuah</hi> offers to bring 600 places in the Old Testa<g ref="char:EOLhyphen"/>ment, wherein the feare and service of God are all one; however I shall balke the first, and endeavour to lead you into the second.</p>
+            <p>In the discovery whereof, I shall consider,</p>
+            <p>First,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> The Duty injoyned, <hi>Serve the Lord.</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> The Conditions in this service; and these two, the one respecting the sincerity of our service, it must bee <hi>in truth;</hi> the other the complete<g ref="char:EOLhyphen"/>nesse
+<pb n="3" facs="tcp:114039:5"/>of it, and the cheerefulnesse in it, <hi>with all the heart.</hi>
+            </p>
+            <p>Thirdly, The Reason enforcing the duty;
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>for con<g ref="char:EOLhyphen"/>sider what great things he hath done for you.</hi>
+            </p>
+            <p>In the inlarging of the Duty, I shall First shew what it is to serve God; Secondly, that it is a duty which <hi>God</hi> requireth. Thirdly, what cause there is why we should yeeld unto it.</p>
+            <p>For the first,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> Every service (if such as it ought) implyeth two duties; Subjection, and Obedience to be under the command of another, and to doe his commands;
+<note place="margin">1 Tim. 6.1.</note> in reference to these <hi>servants</hi> are said <hi>to bee under the yoake,</hi> may not doe what they list, but are at their masters disposing; wee shall find them both joyned in that peoples resolution:
+<note place="margin">Josh. 24.24.</note>
+               <hi>The Lord our God will we serve, and his voice will we obey;</hi>
+               <note place="margin">Verse 14.</note> so in a former verse of this Chapter <hi>if ye will serve the Lord and obey his voyce.</hi> To serve God then is both to professe our subjection unto him as our chiefest Lord, and al<g ref="char:EOLhyphen"/>so to endeavour to make good our Obedience unto all his commands, and that so well for all religious Worship due to God,
+<note place="margin">Mat. 4.10.</note>
+               <hi>Thou shalt worship the Lord thy God, and him only shalt thou serve,</hi> as for all particular duties which in our severall relations God requireth of us: Hence Magistrates serving God in their pla<g ref="char:EOLhyphen"/>ces, are said <hi>to judge not for man but for God,</hi>
+               <note place="margin">2 Chro 19.6. Deut. 1.17.</note> and the judgment given is called <hi>Gods judgment.</hi>
+            </p>
+            <p>Ministers performing the work of the ministery,
+<note place="margin">Tit. 1.1. 2 Pet. 1.1. Jude 1.</note> are called the <hi>servants of God and of Christ;</hi> so <hi>Paul, Peter, Jude.</hi>
+            </p>
+            <p>Commanders in Warre appearing in Gods cause against his enemies, are said to fight Gods battailes;
+<pb n="4" facs="tcp:114039:6"/>So <hi>Saul and Abigal to David,</hi>
+               <note place="margin">1 Sam. 18.17.25, 28.</note>
+               <hi>my Lord fighteth the bat<g ref="char:EOLhyphen"/>tels of the Lord.</hi>
+            </p>
+            <p>Servants in their faithfull service to their masters are called <hi>the servants of Christ,</hi>
+               <note place="margin">Eph. 6.6. Col. 3.22.23, 24.</note> are said <hi>to doe the will of God, to serve the Lord Christ.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> That to serve God is a duty required, the Scrip<g ref="char:EOLhyphen"/>ture is so full, and a truth so well knowne, that I shall onely commend unto you</p>
+            <p>First,
+<note place="margin">Joth. 24.14, 15, 18, 24.</note>
+               <hi>Joshuahs</hi> charge to the people a little before his death; <hi>Now therefore feare the LORD and serve him.</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> his owne resolution, <hi>I and my houshold will serve the Lord.</hi>
+            </p>
+            <p>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> the peoples willing profession, <hi>Wee also will serve the Lord, for he is our God.</hi>
+            </p>
+            <p>For the third, there are two maine incouragements to a service; the person whom we are to serve, and the service it selfe; and can there be any tye or engage<g ref="char:EOLhyphen"/>ment to any person, any thing desireable in any ser<g ref="char:EOLhyphen"/>vice, which is not to be found in the Lord our Master in Heaven, and in his service?</p>
+            <p>Will we first serve him that made us?
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> and every workeman expecteth either the use or benefit of his workemanship;
+<note place="margin">Psal. 100.2, 3.</note> heare the Psalmist, <hi>Serve the Lord with gladnesse;</hi> and why? <hi>know ye that the Lord hee is God, he hath made us.</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> when wee had by <hi>Adams</hi> fall unmade as I may say our selves in that which was the best in our making, the Image of God, and had by loo<g ref="char:EOLhyphen"/>sing that, lost and undone our selves, will wee serve him that recovered and saved us from that lost con<g ref="char:EOLhyphen"/>dition?
+<note place="margin">Luk. 1.74.</note>
+               <hi>Zachary</hi> will tell us in his song, <hi>wee were de<g ref="char:EOLhyphen"/>livered
+<pb n="5" facs="tcp:114039:6"/>out of the hands of our enemies, that we might serve him,</hi> servatiut servi.</p>
+            <p>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">Ioh 6.37.</note> will wee serve such a Master as admits of all to be his servants, that tender their service, and <hi>casts out none that come,</hi> and chooseth his servants, not by the noblenesse of their birth, or the greatnesse of their abilities? <hi>not many wise men after the flesh,</hi>
+               <note place="margin">1 Cor. 1.26.</note>
+               <hi>not many mighty, not many Noble are called;</hi> povertie, im<g ref="char:EOLhyphen"/>potency, want of parts may make us unfit for the service of man: But God, as <hi>Elihu in Job, accepteth not the persons of Princes,</hi>
+               <note place="margin">Iob 34.19. Matth. 22.2.</note>
+               <hi>nor regardeth the rich more than the poore,</hi> when Farmes, Oxen and Wives kept those invited guests from the marriage Supper, the King (for so hee is called) sent forth his servants <hi>into the Lanes and Streets of the Citie,</hi>
+               <note place="margin">Luke 14.18.19, 20, 21, 23.</note>
+               <hi>into the high-wayes and hedges to bring in the poore, and the maimed, and the halt and the blind:</hi>
+               <note place="margin">Marke 10.14. Matt. 21.15, 16</note> Children may be too young to doe service unto man, yet <hi>suffer the little Chil<g ref="char:EOLhyphen"/>dren to come unto mee</hi> saith <hi>Christ;</hi> and how did hee accept and justifie the childrens <hi>crying Hosanna to the Son of David?</hi>
+            </p>
+            <p>And for the service it selfe, will we make choice of that which is first most honourable? and great per<g ref="char:EOLhyphen"/>sons will admit of none that may ecclipse their great<g ref="char:EOLhyphen"/>nesse; Is there any service in the world so honoura<g ref="char:EOLhyphen"/>ble, as the service of God, to bee servants unto the King of Kings? The greatest Peeres of the Land have thought themselves much honoured by being servants to a King, and have accounted their places of Office their greatest titles of honour; some Prin<g ref="char:EOLhyphen"/>ces have more gloried that they were the servants of Christ, then if Monarchs of the world.</p>
+            <pb n="6" facs="tcp:114039:7"/>
+            <p> And which addeth to the honour of this service, are not our fellow servants (however the world de<g ref="char:EOLhyphen"/>spise them) all honourable?
+<note place="margin">Psal. 26.3. Rev. 19.20.</note>
+               <hi>Those excellent ones, the Saints in the earth,</hi> and the glorious Angels in Heaven; so one of them to <hi>John, I am thy fellow ser<g ref="char:EOLhyphen"/>vant.</hi>
+            </p>
+            <p>Yet more, what is it that wee serve for? is it not exprest by that which is most honourable on earth?
+<note place="margin">1 Cor. 9.25. Heb. 12.29.</note>
+               <hi>A Crown, and that incorruptible, a Kingdome, and such as cannot bee moved;</hi> and which much increaseth this honour, it is that which the poorest Saint is capable of,
+<note place="margin">Ja. 2.5.</note> and the Apostle would have speciall notice ta<g ref="char:EOLhyphen"/>ken of it, <hi>Hearken my beloved brethren, hath not God chosen the poore of this world rich in faith, and heires of the kingdom?</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> Desire wee that service which is most gainefull? and matter of gaine is much lookt at in every service;
+<note place="margin">Prov. 14.23.</note>
+               <hi>In all labour</hi> said the Wiseman, <hi>there is profit;</hi>
+               <note place="margin">Job 21.15.</note> and wee shall finde it the wickeds pretence in <hi>Job</hi> for not serving God, <hi>what is the Almighty that wee should serve him,</hi>
+               <note place="margin">Mal. 3.14.</note>
+               <hi>and what profit should wee have if we pray unto him?</hi> so they in the Prophet, <hi>It is in vaine to serve God, what profit is it that we have kept his Ordi<g ref="char:EOLhyphen"/>nances?</hi>
+            </p>
+            <p>Servants will not usually hire themselves, without Covenanting or hope of wages, <hi>an hireling looks for the reward of his worke;</hi>
+               <note place="margin">Iob 7.2.</note> and those services that bring or promise most profit are most sought after. I desire no more, then that we would in truth hold our selves to this, make choice of that service, which will bee most for our profit, and then I am sure the Lord shall have our service, and our selves that profit, which
+<pb n="7" facs="tcp:114039:7"/>all the services in the world will not afford.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. In all other, though some pay come to the ser<g ref="char:EOLhyphen"/>vant, yet the chiefest gaine is to the Master; in Gods service it is otherwise; So <hi>Eliphaz,</hi>
+               <note place="margin">Iob 22.2, 3.</note>
+               <hi>can a man be profi<g ref="char:EOLhyphen"/>table to God, as hee that is wise may be profitable to him<g ref="char:EOLhyphen"/>selfe,</hi>
+               <note place="margin">Deut. 10.12, 13</note>
+               <hi>or is it gaine to him that thou makest thy way per<g ref="char:EOLhyphen"/>fect?</hi> all our labour in Gods service is for our owne profit; God hath the glory, we the benefit, <hi>it is for our good.</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> The least service done to God (if in truth) shall not go without its recompence; heare the Lord making this good, <hi>who is there even among you, that would shut the doores for nought?</hi>
+               <note place="margin">Mal. 1.10.</note>
+               <hi>neither do ye kindle a fire under my Altar for nought;</hi> in the world such as are constant workemen to any man, will not thinke much to do some small chares (as we call them) with<g ref="char:EOLhyphen"/>out looking for any pay; not so in Gods service, was it not said to him that had improved the one pound committed to him? <hi>well thou good servant,</hi>
+               <note place="margin">Luke 19.17.</note>
+               <hi>because thou hast beene faithfull in a very little, have thou authority over ten Cities;</hi>
+               <note place="margin">21, 3.</note> what acceptance found <hi>the poore Wid<g ref="char:EOLhyphen"/>dowes two mites?</hi>
+               <note place="margin">Matth. 10.42.</note> and what reward promised to <hi>a cup of cold water given to one of these little ones in the name of a Disciple?</hi>
+            </p>
+            <p>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> Desire wee that service which hath all the comforts and incouragements that may bee de<g ref="char:EOLhyphen"/>sired or found in any service? for many services may promise much gaine, yet sowred with such present slaverie and hardship, as better loose hopes of profit, then undergoe the bitternesse and toyle of the service; thus it is not in the service of God.</p>
+            <p>Would wee first have this incouragement,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> to bee
+<pb n="8" facs="tcp:114039:8"/>sure of help, and such as may inable us to doe the work required, which we cannot doe by our owne strength? know then there is no work which God re<g ref="char:EOLhyphen"/>quireth of his, but he helpeth them to doe the work required; to instance only in that of Prayer; doth God command <hi>call upon me in the day of trouble?</hi>
+               <note place="margin">Psalm. 50.15.</note> we are in trouble of conscience, dejection of spirit, it may be in some spirituall desertion, or other distresse, and would willingly pray,
+<note place="margin">Romans 8.26.</note> but can too truly say with the Apostle, <hi>we know not how to pray as we ought;</hi> heare an incouragement, <hi>The spirit helpeth our infirmities;</hi> who would not serve such a master, that will never put his servants upon any work, whereunto he will not put his helping hand? The Church acknow<g ref="char:EOLhyphen"/>ledgeth this of God, <hi>Thou Lord hast wrought all our works in us,</hi>
+               <note place="margin">Isa. 26.21.</note> saith the Text; <hi>for us,</hi> saith the margent.</p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> Would wee have this incouragement, that though in many things we offend all,
+<note place="margin">Romans 7.19.</note> and must say with the Apostle, <hi>The good that I would, I doe not, and the evill that I would not, that I do:</hi> we would yet hope that our unwilling failings shall bee for<g ref="char:EOLhyphen"/>given?
+<note place="margin">Mal. 3.17.</note> heare the Lord by the Prophet, <hi>I will spare him as a man spareth his owne sonne that serveth him;</hi> that of the Psalmist I conceive lookes this way; <hi>Re<g ref="char:EOLhyphen"/>joyce the soule of thy servant, for thou Lord art good and ready to forgive;</hi> that wherein thy servants weaknesse causeth him to faile, thy goodnesse moves thee readi<g ref="char:EOLhyphen"/>ly to forgive.</p>
+            <p>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> Would wee in times of danger have hopes of comfort and protection? and nothing doth more expose to themailce of men and devills then the service of God; heare the Lord by the Prophet,
+<pb n="9" facs="tcp:114039:8"/>first threatning;
+<note place="margin">Isa. 65.12.13, 14.</note>
+               <hi>therefore will J number you to the sword, and ye shall bow downe to the slaughter, because when I called ye did not answer; when I spake ye did not heare, but did evill before mine eyes, and did choose that wherein I delighted not: therefore thus saith the Lord God, behold my servants shall eate, but yee shall be hun<g ref="char:EOLhyphen"/>gry; my servants shall drinke, but yee shall bee thirsty; behold my servants shall rejoyce, but ye shall bee ashamed; behold my servants shall sing for joy of heart, but yee shall cry for sorrow of heart, and shall howle for vexati<g ref="char:EOLhyphen"/>on of spirit;</hi> the confidence and comfortable expe<g ref="char:EOLhyphen"/>rience of those three worthies in <hi>Daniel</hi> are comfor<g ref="char:EOLhyphen"/>table instances: <hi>Our God whom wee serve is able to de<g ref="char:EOLhyphen"/>liver us, and hee will deliver us;</hi> so <hi>Darius</hi> to <hi>Daniel,</hi>
+               <note place="margin">Dan. 3.17, 28.6.16, 20.</note>
+               <hi>Thy God whom thou servest continually, hee will deliver thee.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, Would we be in such a service, where<g ref="char:EOLhyphen"/>in though some hardship in the entrance or progresse, yet the end will be comfortable? (and children will take a bitter pill, when they may have sugar after it) then know that the hardest and most uncomfortable part of Gods service will undoubtedly end in com<g ref="char:EOLhyphen"/>fort;
+<note place="margin">Heb. 12, 11.</note> for however <hi>no chastning for the present seemeth joyous, but grievous;</hi> yet saith the same Apostle, and that upon a serious compute,
+<note place="margin">Rom. 8.18.</note>
+               <hi>I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed;</hi> and he gives the rea<g ref="char:EOLhyphen"/>son, <hi>for our light affliction which is but for a moment,</hi>
+               <note place="margin">2 Cor. 4.17, 18</note>
+               <hi>worketh for us a farre more exceeding and eternall weight of glory, whilst we look &amp;c.</hi>
+            </p>
+            <p>If the Lord hath blessed these considerations and incouragements to work our hearts unto this service,
+<pb n="10" facs="tcp:114039:9"/>and we desire so to <hi>serve God,</hi>
+               <note place="margin">Heb. 1<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.28.</note>
+               <hi>that we may please him,</hi> (as the <hi>Geneva</hi> reads it) and have interest in those priviledges of his servants; take we notice of the con<g ref="char:EOLhyphen"/>ditions required in our service, <hi>it must bee</hi> 1. <hi>In truth;</hi> 2. <hi>With all our heart:</hi> in truth without hypocrisie, with all our heart, without partialitie: God look<g ref="char:EOLhyphen"/>eth that his servants should be truly his, and wholly his; requires both the inward man, and the whole man.</p>
+            <p>What it is to serve God in <hi>truth,</hi> will appeare by that wherewith it is joyned, and that in this very du<g ref="char:EOLhyphen"/>ty,
+<note place="margin">Josh, 24 14. Judges 9.16, 19. Joh. 1.47.</note>
+               <hi>Feare the Lord, and serve him in sinceritie and truth;</hi> so twice in one Chapter, <hi>to deale truly and sincerely,</hi> and things are then said to bee true, wherein there is no deceit; so CHRIST of <hi>Nathanael, behold an Is<g ref="char:EOLhyphen"/>raelite indeed,</hi> the Greeke is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, truely an Israelite, <hi>in whom is no guile:</hi> God is then served of us <hi>in truth,</hi> when in all services the hidden man of the heart go<g ref="char:EOLhyphen"/>eth along with the outward man.</p>
+            <p>It was the testimony that <hi>Solomon</hi> gave of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 3.6.2, 20, 3.</note>
+               <hi>hee walked before God in truth.</hi> So Hezekiah, <hi>re<g ref="char:EOLhyphen"/>member mee O Lord, how I have walked before thee in truth.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason. </seg>1</label> That all our services to GOD must bee done <hi>in truth,</hi> will appeare,</p>
+            <p n="1">1. Because that GOD whom wee serve, is <hi>a God of truth.</hi>
+               <note place="margin">Psalm. 51.6.</note>
+               <hi>Deut.</hi> 22.4. <hi>Isa.</hi> 65.16. As the <hi>Psalmist, of God, thou desirest truth in the inward parts.</hi>
+            </p>
+            <p>Secondly that <hi>Christ,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> in and through whom all our services are accepted, <hi>is also truth. John</hi> 14.16.</p>
+            <p>Thirdly the Spirit,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> which is the chiefe helper in our services, is <hi>the Spirit of truth. Joh.</hi> 14.17.15.26.16.13.</p>
+            <pb n="11" facs="tcp:114039:9"/>
+            <p> Fourthly the Word, which ought to bee the rule of our service, is <hi>the word of truth.</hi> 2 <hi>Cor.</hi> 6.7. 2 <hi>Tim.</hi> 2.15. <hi>Ja.</hi> 1.18. So that wee may truely apply that of Christ. <hi>The houre commeth and now is,</hi>
+               <note place="margin">John 4.13.</note>
+               <hi>when the true worshippers shall worship the Father in spirit and truth; for the Father seeketh such to worship him.</hi>
+            </p>
+            <p>For inquiry what is to bee done, that all our ser<g ref="char:EOLhyphen"/>vices may be performed <hi>in truth:</hi> for this two things are required.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>1</label> First, that we do all by a right rule, which is only that Word, which (as we have heard) is the word of truth,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> or as the Angell calld it, <hi>the Scripture of Truth;</hi>
+               <note place="margin">Dan. 10.21.</note> heare Moses, <hi>Yee shall observe to do as the Lord your God com<g ref="char:EOLhyphen"/>manded you,</hi>
+               <note place="margin">Deut. 5.23.12.32.</note>
+               <hi>you shall not turne aside to the right hand or to the left,</hi> that is, as <hi>Masius</hi> upon <hi>Joshua.</hi> 1.7. observes our of <hi>R. Levi; Moses</hi> explaines himselfe, <hi>What thing soever J command you, observe to doe it, you shall not adde thereunto, nor diminish from it.</hi>
+               <note place="margin">Matth. 15.9.</note>
+               <hi>In vaine</hi> (saith CHRIST) <hi>doe they worship me, teaching for doctrines the commandements of men;</hi> hence the Apostle exhorting <hi>to give up our bodies a living sacri<g ref="char:EOLhyphen"/>fice, holy, and acceptable to GOD,</hi>
+               <note place="margin">Rom. 12.1, 2.</note>
+               <hi>which is our reasona<g ref="char:EOLhyphen"/>ble service;</hi> addeth, <hi>prove what is the good and accep<g ref="char:EOLhyphen"/>table will of GOD.</hi>
+            </p>
+            <p>Secondly, our service must be done to a right end;
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> what that is, the Apostle hath told us,
+<note place="margin">1 Cor. 10.31.</note>
+               <hi>Whatsoever ye doe, doe all to the glory of God.</hi> Truth in every service eyeth God; hypocrisie may looke a squint at GOD, but directly at selfe ends, and seldome or never look<g ref="char:EOLhyphen"/>eth at GOD in any service, but through spectacles of selfe-love: such a Zealote was <hi>Jehu,</hi> serving GOD, so farre as might serve his owne ends; hence what
+<pb n="12" facs="tcp:114039:10"/>he bragges of as <hi>his zeale,</hi>
+               <note place="margin">2 Kings 10 16 Hosea 1.4, 10, 11.</note> GOD threatens to avenge as murther: such was <hi>Ephraim, an Heifer that loveth to tread out the Corne,</hi> not caring to plow, because that was onely labour, no present selfe-advantage, and therefore she will worke in that, wherein her owne turne might be served, by feeding on the corn she trod out, according to that in the Law, <hi>Thou shalt not muzzle the Oxe,</hi>
+               <note place="margin">Deut. 25.4.</note>
+               <hi>when hee treadeth out the Corne.</hi>
+            </p>
+            <p>Such were those <hi>teachers, that caused Divisions and Dissensions</hi> in the Church, <hi>and by good words and faire speeches deceive the hearts of the simple, which serve not our Lord JESUS CHRIST,</hi>
+               <note place="margin">Rom. 16.17, 1<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Aquin in loc.</hi>
+               </note>
+               <hi>but their owne belly:</hi> that is, saith <hi>Aquinas,</hi> doe not in their preach<g ref="char:EOLhyphen"/>ing aime at the glory of CHRIST, but their own gaine.</p>
+            <p>Would then Parliament men,
+<label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> Magistrates, Mini<g ref="char:EOLhyphen"/>sters have assurance that they serve God (in their severall stations) in Truth? let them ask their hearts, what rule they have acted by, what their ends, have they been and are to serve GOD, to advance his cause and glory in their places, or by their places to serve themselves? It is knowne what Christ once said,
+<note place="margin">Marke 8.34. Num. 14.24.</note>
+               <hi>Whosoever will come after me, let him deny him<g ref="char:EOLhyphen"/>selfe;</hi> and certainely wee shall never with <hi>Caleb, follow GOD fully,</hi> whilst selfe stands in the way: The kingdome in Church and State hath suffered much by disaffected Malignants; and meanes have been and are used to discover them, and I wish they were all found out that are the troublers of our Israel; yet give me leave to suggest, that there are yet too grand Malignants, whom we are either
+<pb n="13" facs="tcp:114039:10"/>not willing to take due notice of, or too inclinable to favour, under which the complaint is that the kingdome doth yet suffer, in that they have too much influence upon Committees and Votes; I meane selfe and <hi>alter ego,</hi> our owne interests, and favour of friends.</p>
+            <p>But that I may not forget my selfe, and how farre the time is already spent, I proceed to the se<g ref="char:EOLhyphen"/>cond condition required in our service of GOD; It must be <hi>With all the heart:</hi> by heart, we are not to understand that fleshly part in our naturall bodies, but the spirituall part, our soules, often joyned and required in this duty of serving GOD; the latter (as I conceive) explaining the former,
+<note place="margin">Deut. 10.12.11, 13.</note> in that of <hi>Mo<g ref="char:EOLhyphen"/>ses, What doth the LORD require of thee, but to serve the LORD thy GOD with all thy heart, and with all thy soule?</hi> so in the following chapter; that is, with all the faculties of the soule, the Vnderstanding the eye of the soule, the Memory the soules recor<g ref="char:EOLhyphen"/>der, the affections, the feete of the soule, with all the rest.</p>
+            <p>And this GOD requireth,
+<label type="milestone">
+                  <seg type="milestoneunit">Reas. </seg>1</label>
+            </p>
+            <p>First, because the soule of man, whose chiefe residence, and (as I may say) chaire of state is in the heart, though inclosed in the body as a prison, yet it is there, as <hi>Joseph</hi> in the Kings prison in <hi>Egypt,</hi> King as it were in that prison,
+<note place="margin">Pro. 16.23.</note> having as a Soveraigne the command of the whole man: <hi>The heart of a wise man</hi> (saith Solomon) <hi>guideth his mouth.</hi> Which way the heart swayeth, that way goes the tongue, the Messenger and Interpreter of the heart; when Gods cause hath the heart, it shall have the vote.
+<pb n="14" facs="tcp:114039:11"/>I could give you other places, where the eye, the eare, the feet, disposed and commanded by the heart; so <hi>Eliphaz</hi> of the whole man,
+<note place="margin">Iob. 15.12.</note>
+               <hi>Why doth thine heart carrie thee away?</hi> hence observe, that the Apostle calls the heart, the man, in that expression, <hi>the hidden man of the heart,</hi>
+               <note place="margin">1 Pet. 3.4.</note> because it disposeth of the whole man, <hi>mens cujusque est quisque,</hi> every man is as his mind is; GOD therefore in his service requireth the heart; for that brought on, like the master-wheele in a clock, will turne and bring on all in man.</p>
+            <p>Till God have the heart, no hope of reall good<g ref="char:EOLhyphen"/>nesse in any part else;
+<label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>2</label>
+               <hi>There is not a true word in their mouth,</hi>
+               <note place="margin">Psal. 5.9.</note>
+               <hi>within they are very corruption;</hi> or as others read, <hi>their heart is vaine,</hi> a vaine heart hath a lying tongue: <hi>againe their heart imagineth destruction,</hi>
+               <note place="margin">Prov. 24.2.</note>
+               <hi>and their lips speake mischiefe:</hi> where malice within, mischiefe without;
+<note place="margin">Psal. 58.2.</note> so in another Psalme, <hi>yee imagine mischiefe in your hearts, your hands execute cruelty;</hi> mischievous thoughts have bloudy designes, what evill the heart contrives, the hand is ready to act; therefore <hi>David</hi> prayeth,
+<note place="margin">141.4.</note>
+               <hi>encline not my heart to any evill thing, to pra<g ref="char:EOLhyphen"/>ctise wicked works with men that worke iniquity,</hi> imply<g ref="char:EOLhyphen"/>ing, that hee should not refraine evill actions in life, unlesse his heart restrained from evill inclinations.</p>
+            <p>What shew or beginning of goodnesse seemes to be in any,
+<label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>3</label> that commeth not from the heart, will like <hi>Hoseas morning Cloud and early deaw,</hi>
+               <note place="margin">Hosea 6.4.</note> goe away and not continue, what caused the word like the seed sowen in those three sorts of ground come to nothing? it was because not <hi>received into a good and honest heart;</hi>
+               <note place="margin">Luk. 8.15.</note> what occasioned that unsetlednesse and revolt?
+<note place="margin">Psal. 78.37.</note>
+               <hi>they were not stedfast in his Covenant, their heart was not right with
+<pb n="15" facs="tcp:114039:11"/>God:</hi> It is the Apostles caveat, <hi>take heed,</hi>
+               <note place="margin">Heb 3 12.</note>
+               <hi>least there be in any of you an evill heart to depart from the living God;</hi> an evill heart may seem to hold with God for a time, cannot hold long, colours, if the ground (as they call it) not good, are apt to decay; Hypocrisie most<g ref="char:EOLhyphen"/>ly ends in Apostasie.</p>
+            <p>I shall touch upon the other branch of this condi<g ref="char:EOLhyphen"/>tion requiring not only the heart in Gods service, but all the heart, which takes in both the intirenesse and cheerfulnesse of the heart.</p>
+            <p>For first, God cannot endure <hi>a divided heart,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">Hosea 10.2. 1 Kings 18.22.</note>
+               <hi>that halting betweene two opinions,</hi> or as the Margent, two thoughts, <hi>betwixt God and Baal;</hi> like the River <hi>He<g ref="char:EOLhyphen"/>brus</hi> in <hi>Thracia,</hi> that runs so slowly, as hardly discer<g ref="char:EOLhyphen"/>ned which way it runs; a staggering man is easily thrown down;
+<note place="margin">Heb. 12.13.</note> those <hi>feet which are halting are apt to be turned out of the way;</hi> when your <hi>Thames</hi> in its flow comes to a standing water, the Ebb presently fol<g ref="char:EOLhyphen"/>lowes; indifferencie in Religion is the next step to Apostatizing from Religion.</p>
+            <p>The heart given to the service of God, should in this be like the <hi>Halcions</hi> nest, which they say, cannot hold one silly Fly more than it selfe; not entertaine or serve any creature to the prejudice or differvice of the Creator; for certainly we neither love nor serve God enough, when we love or serve any thing with God, which we doe not love and serve for God.</p>
+            <p>Nor Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> will God accept or delight in that service which is <hi>done grudgingly,</hi>
+               <note place="margin">2 Cor. 7.9. 1 Pet. 5.2.</note> and as it <hi>were of ne<g ref="char:EOLhyphen"/>cessity;</hi> when wee are kept in Gods service, as unruly beasts in a Pasture, <hi>by an hedge of thornes,</hi>
+               <note place="margin">Hosea. 2.6.</note> the Lords owne expression, some inconvenience would come to
+<pb n="16" facs="tcp:114039:12"/>our selves; it may be losse to our estates, if wee should desert the service; but let the hedge be trodden down, or some gap made in it, the beasts break out; let the cause wee formerly adhered to, be in some disrespect, or not advancing our private designes,
+<note place="margin">2 Kings 9.20. 2 Sam. 2.18.</note> or a way open to avoid the inconveniencies that hedged us in, some it may be, whose march before was in the same cause, as <hi>Iehues;</hi>
+               <note place="margin">Exod. 14.25. 2 Kings 19, 26.</note> their pace as <hi>Hazaels light of foote as a wild Roe,</hi> now like the <hi>Chariot wheeles of the Egyptians, they drive heavily;</hi>
+               <note place="margin">Marke 5.3. Luke 14.23.</note> are as lame as <hi>Mephibosheth,</hi> or like the bed-rid Palsie man, come not till brought on by o<g ref="char:EOLhyphen"/>thers, or as the unwilling guests, not <hi>come in, till in a manner compeld.</hi>
+            </p>
+            <p>Take two or 3.
+<label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> short uses of both these branches; First, doth God in every service require the heart? then know, that no service shall find acceptance with God,
+<note place="margin">Eph. 5.19. Col. 3.16. Ezech. 33.30.32.</note> unlesse God in that service doe find the heart; <hi>no melody to the Lord in singing Psalmes,</hi> unlesse <hi>we sing with grace in our hearts;</hi> God is not satisfied that his word hath the eare, when the heart is gone after the world: that prayer will not reach heaven, nor finde accesse at the throne of Grace,
+<note place="margin">1 Sam. 1.13. Matth. 15.8.</note> unlesse with <hi>Hannah, there be a speaking in the heart,</hi> those are by Christ re<g ref="char:EOLhyphen"/>jected as Hypocrites, <hi>that draw neere to God with their mouthes, when yet their hearts are far from him.</hi>
+            </p>
+            <p>Learne the true cause why the outward man is so unwilling to yeeld unto God,
+<label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> the feet so hardly brought to tread in his Courts, the eares so dull in hearing, the tongue so filent in speaking for God and his cause, the eye so dimme in seeing the wondrous things in Gods Law; the heart the fountaine of life, and spring of motion is not yet quickned and moved;
+<pb n="17" facs="tcp:114039:12"/>heare <hi>Moses</hi> making this good of the eye and eare,
+<note place="margin">Deut. 29.4.</note>
+               <hi>The Lord hath not given you an heart to perceive, and eyes to see, and eares to heare;</hi> a dark understanding hath a dimme eye, and a deafe eare; the Apostle gives this as the reason of the <hi>Jewes</hi> blindnesse and stubbornnesse in receiving Christ; <hi>That even unto this day, when</hi> Moses <hi>is read,</hi>
+               <note place="margin">2 Cor. 3.15.</note>
+               <hi>the vaile is upon their heart.</hi>
+            </p>
+            <p>Would wee then give God the service of the whole man? doe we that which <hi>Solomon</hi> adviseth,
+<label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>3</label>
+               <note place="margin">Prov. 23.26. Psal. 45.1. Act. 16.14. Psal. 119.32.86.12.</note>
+               <hi>My sonne give me thine heart;</hi> that being in truth given to God, will un<g ref="char:EOLhyphen"/>loose the tongue, <hi>My heart is enditing a good matter, my tongue is the penne of a ready writer:</hi> will open the eare, <hi>Lydia's opened heart</hi> wrought an attentive eare; will speed the feet; <hi>I will run the way of thy Commandements, when thou shalt enlarge my heart.</hi>
+            </p>
+            <p>Nor will the heart only bring the whole man to God, but will also hold him close to God; when <hi>David</hi> had prayed, <hi>Teach mee thy way O LORD,</hi> promised obedi<g ref="char:EOLhyphen"/>ence, <hi>I will walk in thy truth,</hi> he addeth as a speciall means to keepe him unto this, <hi>Unite my heart to feare thy name;</hi> no part will willingly fall off from God, whilst the heart remaines knit unto God; no bands or strings tie so fast and sure, as those of the heart.</p>
+            <p>I have done with the Duty and conditions required; de<g ref="char:EOLhyphen"/>sire to borrow more both of your patience and time, for pressing the reason used by <hi>Samuel</hi> to inforce the duty, <hi>for consider what great things he hath done for you.</hi>
+            </p>
+            <p>The word translated consider, is in the Hebrew, <hi>Videte,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Buxtorf.</hi>
+               </note> See, applyed so well to the eye of the mind, as of the bo<g ref="char:EOLhyphen"/>dy; and implyeth, that all Gods works of mercy, should be so carefully and continually remembred of us, as those things are, which we have still in our eye.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That the serious consideration of Gods mercies, ought to inforce the service of him, take that of <hi>Moses,</hi> who hav<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:114039:13"/>inlarged the greatnesse of Gods both pardoning and supplying mercies,
+<note place="margin">Deu. 10.12.</note> he sheweth what God expecteth from them; <hi>And now Israel, what doth the Lord thy God require of thee, but to serve the Lord thy God with all thy heart, and with all thy soule?</hi> So <hi>Joshuah</hi> after a briefe rehearsall of all those great things which God had done for them, hee in<g ref="char:EOLhyphen"/>ferreth,
+<note place="margin">Iosh. 24.14. Rom. 12.1.</note>
+               <hi>Now therefore serve the Lord in sincerity and truth;</hi> the Apostle presseth the same, <hi>I beseech you by the mercies of God, that you give up your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service: so again wherefore we receiving a kingdome that cannot be moved,</hi>
+               <note place="margin">Heb. 12.28.</note>
+               <hi>let us have grace, whereby we may serve God acceptably with re<g ref="char:EOLhyphen"/>verence and godly feare.</hi>
+            </p>
+            <p>That the reason in the Text may reach us,
+<note place="margin">Foure par<g ref="char:EOLhyphen"/>ticulars.</note> consider we these foure particulars. 1. What great things have been done for us. 2. That all these great things have bin done by the Lord. 3. That these great things should not be for<g ref="char:EOLhyphen"/>gotten, but still in our eye. 4. What the great things, that have bin done for us, should work in us. I shall doe little more then name the three first.</p>
+            <p>That great things have bin done for us, in our counsells, in our wars, by Land, by Sea, many fine designes blasted, dangerous plots discovered, great expectations frustrated, great Armies defeated, great victories obtained; great assistance from our Brethren of <hi>Scotland,</hi> great faithful<g ref="char:EOLhyphen"/>nesse and courage in Commanders and Souldiers; great supplies from the renowned and well deserving Citie of <hi>London,</hi>
+               <note place="margin">2 Cor. 8.3.</note> and others well affected, <hi>even to and beyond their power;</hi>
+               <note place="margin">Ezec. 5.16.</note> great mercies in keeping the devouring sword from our habitations in these parts, sheathing the sword of the Pestilence; hopes of preventing the <hi>evill arrow of fa<g ref="char:EOLhyphen"/>mine;</hi> preserving the union betwixt the two Nations; who can doe lesse then with admiration acknowledge these great things done for us?</p>
+            <pb n="19" facs="tcp:114039:13"/>
+            <p> Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> that all those forementioned great things are at the Lords disposing, and whatsoever done in them was done by the Lords hand, I might cleare by particular texts, if either the time would give leave, or the things questionable; I shall only touch upon the Lords managing of the war, (a speciall meane whereby these great things done) will it not appeare, that the Lord of Hosts by his own arme got our Victories, if we consider first the time when the Lord began to doe these great things; and that</p>
+            <p>First, in relation to our selves; was it not when <hi>Bristow</hi> lost, our Armies scattered in the North and West?
+<note place="margin">Psal. 136.23.</note> did not the Lord begin to <hi>remember us, when wee were in a low estate,</hi> and the spirits of many so low as their condition?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, in relation to our enemies, was it not when their hope and confidence at the highest? as severall of the Kings letters witnesse a little before <hi>Nazeby</hi> fight: Se<g ref="char:EOLhyphen"/>condly, the time wherin these great things done, were not most of them done within the compasse of ay<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are, and that without the losse of much bloud? <hi>Incruentae victoriae;</hi> when the Lord began to worke, did not he work a quick work in our Land? <hi>Dianaes</hi> Temple at <hi>Ephesus,</hi>
+               <note place="margin">Ioh. 2.20.</note> above 300. yeares in building! the Temple at <hi>Jerusalem</hi> 46. but to make a world in 6. dayes, must be the work alone of an Almightie God.</p>
+            <p>Or Secondly, if wee consider the instruments,
+<note place="margin">1 Sam. 17.42.</note> whom the Lord used for working these great things; was not that Noble Generall lookt upon by the enemy,
+<note place="margin">Iudg. 7.3.6 7, 16.</note> as <hi>David</hi> by <hi>Goliah,</hi> with contempt and disdaine? And the Army it selfe, as those 300. select men in <hi>Gideons</hi> Army were, it may be by those that were dismissed, <hi>and sent every man to his owne place?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> That these great things which the Lord hath done should not be forgotten, all the Monuments of Gods great works recorded in Scripture may lesson us; the first visi<g ref="char:EOLhyphen"/>ble
+<pb n="20" facs="tcp:114039:14"/>great work that ever God did, the Creation of the world, appointed to be remembred one day in seven, by annexing it as a speciall reason for the observation of that day: The Psalmist minding us of Gods great works, would have us know,
+<note place="margin">Psal. 111.2, <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> that <hi>the Lord hath made all his won<g ref="char:EOLhyphen"/>derfull works to be remembred;</hi>
+               <note place="margin">105, 5.</note> and in a former Psalme cal<g ref="char:EOLhyphen"/>leth upon us to doe it; <hi>Remember his mervellous works, that he hath done.</hi> And I doubt not but as heretofore you were minded by one of your remembrancers, care is taken, that they may <hi>bee written for the generations to come;</hi>
+               <note place="margin">Mr. <hi>S. M.</hi> Psal. 102.18.</note> and that not onely in our owne, but in that language, as it may bee said (if possible) in all the Kingdoms of the earth, as in a following Psalm,
+<note place="margin">126, 2.</note>
+               <hi>The Lord hath done great things for them.</hi>
+            </p>
+            <p>But what should those great things which God hath done for us worke in us?
+<milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> first to give all the glory to God;
+<note place="margin">Psal. 115.1</note>
+               <hi>Not unto us O Lord, not unto us, but unto thy Name give glory: Justinian</hi> is said to have made a Law, that no master workman should put up his name within the body of that building, which hee made out of another mans cost; our owne Histories tell us, that when <hi>Wickham</hi> then Chaplaine to <hi>Edw.</hi> 3. was by him made overseer of the work for repaire of <hi>Windsor Castle,</hi> that those three words which hee caused to be inscribed upon the great Tower, <hi>hoc fecit Wickham,</hi> this made <hi>Wickham,</hi> had not hee con<g ref="char:EOLhyphen"/>strued them another way, had lost him the Kings favour; heare the Psalmist trebling this charge upon those whose greatnesse maketh them too apt to take too much unto themselves; <hi>give unto the Lord O ye mighty, give unto the Lord glory and strength, give unto the Lord the glory due to his Name:</hi>
+               <note place="margin">Psa. 29.1, 2</note> Implying that great persons in the things of <hi>God</hi> should carry themselves like themselves, goe through with what they undertake; when they begin to give un<g ref="char:EOLhyphen"/>to God, never give over giving, till they have given to God all that is his due:</p>
+            <pb n="21" facs="tcp:114039:14"/>
+            <p> But what glory doth God expect from great ones, not alone that of their lips, to give God a few good words, to speak well of his name; but chiefly that of their lives: their authority will be lesse prevailing for suppressing those evils, whereunto their bad examples give incou<g ref="char:EOLhyphen"/>ragement; Naturalists report of the bird <hi>Ibis,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Gesne∣rus. </seg>
+               </label> whereof many in <hi>Egypt,</hi> especially in the Citie of <hi>Alexandria,</hi> that It eateth up all the garbage of the Citie, but leaves somwhat behind it, that is more noysome then any filth it had eaten: another writeth,
+<label type="milestone">
+                  <seg type="milestoneunit">Pierius. </seg>
+               </label> that it will devour every ser<g ref="char:EOLhyphen"/>pent it meetes with; but from the egge of this bird com<g ref="char:EOLhyphen"/>eth the most hurtfull of all Serpents, the <hi>Basilisk,</hi> the sight whereof killeth; I forbeare to apply, but not to pray, that in all those who are Gods on earth, may be found alwayes joyned,
+<note place="margin">Psal. 119.68.</note> that which the <hi>Psalmist</hi> hath of God in Heaven <hi>Thou art good, and dost good.</hi>
+            </p>
+            <p>Secondly, hath God done great things for us?
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> then certainly he expects great things from us;
+<note place="margin">Luke. 12.48.</note>
+               <hi>Unto whom much is given, of him shall be much required;</hi> let not those unto whom <hi>God</hi> hath given great opportunities, and furni<g ref="char:EOLhyphen"/>shed with answerable abilities to do great things for <hi>God</hi> and his cause, put off God with a little: we have not bin served with halfe victores, half successes, such would not have served our turn, and be sure he wil not be served with halfe services, halfe or a partiall Reformation; <hi>God</hi> will not be dealt with, as that unjust Steward did with his masters Creditors, where <hi>an hundred was due, to set down fiftie;</hi>
+               <note place="margin">Luke 16.6.</note> or with <hi>Ephraims Cake not turned, (i.)</hi> as the words are ex<g ref="char:EOLhyphen"/>pounded, halfe baked, baked on the one side,
+<note place="margin">Hosea. 7.8.</note> raw on the other; a mixture of truth and errours.
+<note place="margin">2 Chron. 32.25.</note> It was a great fayl<g ref="char:EOLhyphen"/>ing in <hi>Hezechiah, That he rendred not to the Lord according to the benefit done unto him.</hi> And the rather should we mind this, if we consider that though the Lord (blessed be his name) hath done great things for us, yet he hath not done
+<pb n="22" facs="tcp:114039:15"/>all that we expect, and whereof the Church and State stand in need; many a Ship when it hath come neer the haven, hath by storms bin driven into the maine, and there perished:
+<note place="margin">Acts 27.39.40.</note> some have bin cast away neer the shore, as that in the <hi>Acts;</hi> If we expected no more, then what is already done, we might make the bolder with God: but there be<g ref="char:EOLhyphen"/>ing much yet for the Lord to do, setling the Church go<g ref="char:EOLhyphen"/>vernment in the Kingdome, the suppression of errours, the turning of the Kings heart, the rescue of <hi>Ireland,</hi> and (which is hoped, wil not in due time be forgotten) the recovery of the <hi>Palatinate;</hi> it will be our wisdom not to faile <hi>God,</hi> least hereafter he faile us: and turn that hand which hath hi<g ref="char:EOLhyphen"/>therto bin for us, against us; think we of that in the Pro<g ref="char:EOLhyphen"/>phet, <hi>In all their afflictions he was afflicted, and the Angell of his presence saved them,</hi>
+               <note place="margin">Isa. 63.91.10.</note>
+               <hi>in his love and in his pitie he re<g ref="char:EOLhyphen"/>deemed them, and he bare them and caried them all the days of old; but they rebelled and vexed his holy Spirit, therefore he was turned to be their enemie, and fought against them.</hi>
+            </p>
+            <p>I presume wee are satisfied in this, that it is better to have all the Nations of the earth our enemies, then God to be our enemie; often speeches there have been of forces from other parts, and Malignants in all parts hope (if they durst speak out) for a day; but if our ill requitall of God, and the sins yet amongst us, make not God our ene<g ref="char:EOLhyphen"/>mie: we need feare no power or combination of all enemies in the world; that warre alone is truly to be fea<g ref="char:EOLhyphen"/>red, wherein God fighteth against a people.</p>
+            <p>The <hi>Egyptians</hi> never spake of flying, till they found God against them;
+<note place="margin">Exod. 14.25. 1 Sam. 4.7.8.</note>
+               <hi>let us flee say they from the face of Israel: for God fighteth for them against the Egyptians.</hi> The <hi>Phi<g ref="char:EOLhyphen"/>lishi<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> feared not to fight with <hi>Israel,</hi> till they conceived <hi>God</hi> appeared for them: <hi>The Philistims were afraid and said, God is come into the Camp, woe unto us;</hi> and again, <hi>woe unto us, who shall deliver us out of the hand of these mighty Gods?</hi>
+            </p>
+            <pb n="23" facs="tcp:114039:15"/>
+            <p> Thirdly, hath God done great things for us?
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> appeare we according to our place and power for <hi>God</hi> in the same kind wherin he hath appeared for us;
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> first he hath brought in, and united the hearts and hands of the best affected in the Kingdome; let him in any thing concerns his glory have our cordiall help and furtherance.</p>
+            <p>God hath subdued the necks of our enemies unto us;
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> be nor we unwilling to submit ours to his yoke, to come un<g ref="char:EOLhyphen"/>der his government;
+<note place="margin">Luc. 19.27.</note> we may read the doome of those that said, <hi>we will not have this man to reigne over us; Those mine enemies, which would not that I should reigne over them,</hi>
+               <note place="margin">Psal 2.9.</note>
+               <hi>bring hither and slay them before me.</hi> And take we heed; Christ hath <hi>a rod of Iron</hi> to breake them in pieces, that will not come under his Scepter.</p>
+            <p>For you (Honoured Worthies) the Lord hath put pow<g ref="char:EOLhyphen"/>er into you hands,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> to reform and settle the government of the Church; and we find (and blesse God for you) that is your endeavour and resolution for this work, which was the vaine confidene of that people,
+<note place="margin">Isa. 9.20.</note>
+               <hi>the bricks are fallen downe: but we will build with hewn stones; the Sy<g ref="char:EOLhyphen"/>comore trees are cut down: but wee will change them into Ce<g ref="char:EOLhyphen"/>dars.</hi>
+            </p>
+            <p>For the Doctrine of the Church, as we trust by Gods direction and blessing,
+<note place="margin">Cant. 2.15.</note> the ground-work thereof will be so firmly laid, as none of <hi>those foxes</hi> mentioned by the Church, shall be able to earth in it, <hi>to spoil the tender grapes of this vine.</hi> So we doubt not,
+<note place="margin">Psal. 80.</note> but the hedge about it by your civill sanction will bee made so strong, as no <hi>wild Boare out of the wood shall waste: nor wild beast of the field devoure it;</hi> neither Heresie, carnall Policie, or Vio<g ref="char:EOLhyphen"/>lence shall prevaile to corrupt or suppresse it.</p>
+            <p>Fourthly the Lord by blessing your counsells and forces (we hope) hath given you two kingdoms already;
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> will we trust in his good time, give you the third: let your study be
+<pb n="24" facs="tcp:114039:16"/>to make these three Kingdoms the Kingdom of Christ; then doubt not but he will preserve his own; and no more probable way, then by providing, that <hi>the Gospell of the Kingdom,</hi>
+               <note place="margin">Mat. 9.35.13.19.</note> or as elsewhere <hi>the Word of the Kingdom</hi> may bee powerfully and sincerely preached in all parts there<g ref="char:EOLhyphen"/>of; and to this end, that all possible wayes may by your wisdome and zeale be thought on, for raising a fitting in<g ref="char:EOLhyphen"/>couragement by a comperent maintenance for many poore parishes.</p>
+            <p>It hath been often charged upon <hi>Hen.</hi> 8. his disposing of the lands belonging to Monasteries, that he did not out of them first take care for the erecting and endowment of Free-Schooles, and provision for poore Church livings in all the parts of his Dominions.</p>
+            <p>Give me leave to speake freely, after ages cannot expect the like opportunity to that, which God hath now put in<g ref="char:EOLhyphen"/>to your hands, by those meanes which were formerly gi<g ref="char:EOLhyphen"/>ven to the Church, to raise some incouraging comforta<g ref="char:EOLhyphen"/>ble provision; and if you should give all, you shall but do that to God and his service,
+<note place="margin">1 Chro. 29.14.</note> which DAVID once in a case looking this way, said, <hi>Of thine owne have wee given thee.</hi>
+            </p>
+            <p>Since the Popes of <hi>Rome</hi> have changed <hi>Petre pasce</hi> into <hi>Petrerege,</hi> the Church hath had many Rectors, few Pa<g ref="char:EOLhyphen"/>stors; yet wee acknowledge it our dutie, it is expected from us, and we desire to doe it according to those abili<g ref="char:EOLhyphen"/>ties the Lord hath given, to feed the flock committed to our charge; but we hope it will not be thought reasonable that such as desire plentifully to feed others with spirituall food, should either decline such poore places, or live up<g ref="char:EOLhyphen"/>on a little better then starving allowance.</p>
+            <p>I have thought it a great aggravation of the <hi>Egyptians</hi> unkind dealing with the posterity of <hi>Ioseph,</hi>
+               <note place="margin">Exo. 5.7, 8.</note> in requiring their full tale of Bricks, and not allowing them straw for
+<pb n="25" facs="tcp:114039:16"/>the making of them; when as their fore-fathers were fur<g ref="char:EOLhyphen"/>nished by <hi>Ioseph</hi> with corne to save their lives.</p>
+            <p>Fourthly, hath God done great things for us,
+<note place="margin">Psal. 136.23.</note> and that when we were able to do little for our selves; did <hi>He remem<g ref="char:EOLhyphen"/>ber us in our lowe estate?</hi> let us not forget God, when those things wherein he is somuch concern'd, are in a lowe con<g ref="char:EOLhyphen"/>dition; doth not <hi>Christ,</hi> the blessed Spirit suffer much in their Dietie, and doth not GOD suffer much in his Law, in the Scriptures, in his Ordinances, and Mini<g ref="char:EOLhyphen"/>sters?</p>
+            <p>Let then I beseech you the name of God be deare un<g ref="char:EOLhyphen"/>to us, and every thing wherein the honour of God is any way imparted; let all blasphemies against God, against the Scriptures be suppressed; the Iewes were so carefull of the former, that if one saw never so small apeece of paper under his feet, wherein was any writing, he was to take it up, and take heed of treading upon it, lest in that paper there might bee found written the name of God;
+<note place="margin">Schichar<g ref="char:EOLhyphen"/>dus de jure regio He<g ref="char:EOLhyphen"/>braeorum.</note> and for the Scripture, they were so tender of its esteeme, that if any had occasion in his journey to have with him the booke of the Law, hee might not carry it on the back of his beast, but in his bosome next his heart.</p>
+            <p>Of these two great persecutions against the woman and her child, raised by the Dragon and the Serpent,
+<note place="margin">Rev. 12.4, 15.</note>
+               <hi>that flood of waters cast out of the serpents mouth</hi> most endangered them; the first under the heathenish persecuting Romane Emperours,
+<note place="margin">Mr. <hi>Obad. Sedgw.</hi>
+               </note> caused the Church only to flye and hide her sefe for a time; the latter, which were the severall here<g ref="char:EOLhyphen"/>sies then sprung up and spread in the Church, in danger to drown her.</p>
+            <p>But I am in this (though formerly in my meditations) happily prevented by a more learned tongue in this place; yet give me leave to those heresies which brake out at the first rising of this flood, to adde one which was be<g ref="char:EOLhyphen"/>fore
+<pb n="26" facs="tcp:114039:17"/>the first of those then recited, and the rather because by hell and the serpent againe vomited, it had its rise in <hi>Arabia,</hi>
+               <note place="margin">Osiander cent. l. 3. c. 1. Anno. 251.</note> and condemned under the name of the <hi>Arabian</hi> heresie, affirming that the soules of men did die and con<g ref="char:EOLhyphen"/>sume with the bodies, and that at the last day they should againe rise with the body, <hi>Origen</hi> in a Synod confuted it.</p>
+            <p>And surely if ever Gods Truth and Church were like to be carried away and overborne, it is now, with this flood out of the serpents mouth, belching forth such fear<g ref="char:EOLhyphen"/>full blasphemies, as former ages scarce heard of; what one way to stop this flood, the Apostle hath told us; <hi>There are many unruly and vaine talkers and deceivers,</hi>
+               <note place="margin">Tit. 1. so. 11.</note>
+               <hi>whose mouthes must bee stopped, who subvert whole houses, teach<g ref="char:EOLhyphen"/>ing things which they ought not for filthy lucres sake.</hi>
+            </p>
+            <p>Another way, which the Lord hath stirred up the Ho<g ref="char:EOLhyphen"/>nourable Houses of Parliament to use, is the setting apart a solemne day of humiliation for this Iudgement and the sinnes that brought it; wherein I hope there will follow in such a tide of teares, as shall by Gods blessing over-ma<g ref="char:EOLhyphen"/>ster this flood and drive it backe into the serpents mouth, whence it came, as your sea tydes do the fresh rivers at their flow.</p>
+            <p>Or that there will be such heat and fervency in the pray<g ref="char:EOLhyphen"/>ers of that day, or like the fire that fell upon <hi>Elijahs</hi> burnt sacrifice it shall lick and dry up the water of this flood,
+<note place="margin">2 Kings 18.33.</note> as that did the water in the trench; the fervent prayer of one single man did once dry up the spring head of such a flood as had almost overflowed the whole world; I meane that of the <hi>Arian</hi> heresie.</p>
+            <p>When <hi>Arius</hi> the spring of that heresie,
+<note place="margin">Osiander cent. 4. l. 2. c. 38.</note> was come to <hi>Constantinople</hi> the chiefe City of the Empire, and was by his followers to be brought in great triumph to the chiefe Church, <hi>Alexander</hi> the Bishop of <hi>Constantinople,</hi> the day
+<pb n="27" facs="tcp:114039:17"/>before humbly and earnestly besought GOD, that hee would either take <hi>Arius</hi> out of the world, before he en<g ref="char:EOLhyphen"/>tred into that Church, or else that himselfe might not live to see it; the event or effect of this prayer what it was, I beleeve you have often heard, that <hi>Arius</hi> going on the day designed with great pomp towards the Church, was taken with some paine in his belly, went aside to ease nature, and voyded out his bowels.</p>
+            <p>Or that all these heresies exprest by <hi>smoake out of the bottomelesse pit,</hi> shall like smoake the higher they grow,
+<note place="margin">Rev. 9.2.</note> be the neerer their scattering, or like floods when at the height, their ebbe is at hand: however doubt we not, if our sins and neglect of meanes hinder not, but that the God of truth, who sitteth upon the floods, will in his good time <hi>say to this deep be drie, and to this flood,</hi>
+               <note place="margin">Isa. 44.27. Job. 38.11.</note>
+               <hi>hitherto shalt thou come and no further, and here shall thy proud waves stay;</hi> and make good that of the Apostle, he speakes of the here<g ref="char:EOLhyphen"/>ticks of those times, <hi>they shall proceed no farther, for their madnesse</hi> (so the <hi>Geneva;</hi>
+               <note place="margin">2 Tim. 3.9.</note> and the <hi>Greek</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> will beare it) <hi>shall be made manifest unto all men.</hi>
+            </p>
+            <p>Fifthly, Hath God appeared in his Wisdom, Goodnes and Power in doing great things for us? let not our power and parts be wanting, in doing what we can for God. The <hi>Lacedemonians</hi> made the statue of <hi>Apollo,</hi> their God of wisdome with foure eares, and foure hands, to shew that wisdome should be much in hearing what she ought to doe; and much in acting, what she knew was to be done; and the rather let us use what we have from God, for God.</p>
+            <p>First, because we have all from him upon an accompt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> one day to be made unto him; and in the meane time Votes and Speeches are not more truly registred in journ<g ref="char:EOLhyphen"/>all books, then they are in Gods;
+<note place="margin">Mr. <hi>M.N.</hi>
+               </note> who seeth what are the hearts, what the designes of all; as not long since out of
+<pb n="28" facs="tcp:114039:18"/>this place, <hi>all things are naked and opened unto the eyes of him with whom we have to doe;</hi> what accompt then will they give up, that either have done nothing for God; or it may be what they can to hinder and retard his works?</p>
+            <p>There is no such way to make what God hath given us, usefull to our selves, as by using it for God and his cause in restrayning and repressing according to our power and places,
+<note place="margin">Iudg. 15, 14.15, 18, 19.</note> whatsoever is against God his Glory and Truth; when the <hi>Philistims</hi> thought to have surprised <hi>Sampson</hi> on the sudden, the best weapon that he found was <hi>a new jaw<g ref="char:EOLhyphen"/>bone of an Asse, wherewith he slew a thousand men;</hi> after the victorie and his praising God for it <hi>he was sore athirst, and called on the Lord, and said thou hast given this great de<g ref="char:EOLhyphen"/>liverance into the hand of thy servant, and now shall I die for thirst?</hi> See how the Lord dealt with him in this extre<g ref="char:EOLhyphen"/>mity; <hi>God clave an hollow place that was in the jaw, and there came water thereout; and when he had drunk, his Spirit came again, and he revived;</hi> God used that for supply of his per<g ref="char:EOLhyphen"/>sonall wants, which he had used for God against the ene<g ref="char:EOLhyphen"/>mies of God.</p>
+            <p>Sixthly, hath God done great things for us? let us take heed, that we doe not undoe those great things, and ha<g ref="char:EOLhyphen"/>zard the undoing of three Kingdomes, by doing great things against them, and our selves; we may by our divisi<g ref="char:EOLhyphen"/>ons undoe all in a few monthes, which the Lord hath bin doing for us in some yeares, when we were of one heart, and went about the work as one man: and the enemies greatest hope is by dividing to weaken and subdue us.</p>
+            <p>It is said,
+<note place="margin">
+                  <hi>Pox. l.</hi> 36. <hi>c.</hi> 7.</note> that there is a stone in <hi>Scyrus,</hi> that floateth above the water being whole: but broken in pieces sinks to the botome; In that conflict betwixt those six bre<g ref="char:EOLhyphen"/>thren who are called by the Historian <hi>ter gemini fratres,</hi> the <hi>Horatij</hi> and the <hi>Curiatij,</hi>
+               <note place="margin">
+                  <hi>Lev. Dec.</hi> 1. l. 1.</note> had the three wounded <hi>Curiatij</hi> not divided themselves, but held together against
+<pb n="29" facs="tcp:114039:18"/>that one surviving of the <hi>Horatij,</hi> they had not lost the day, their lifes, their Countries liberty.</p>
+            <p>And to prevent this division, give me leave to minde us all, of the two last branches of the two first articles of the Covenant, concerning our endevours for uniformity in Religion; the widest breaches in affection too often rising from differences in profession; the war betwixt the <hi>Turke</hi> and <hi>Persian</hi> both <hi>Mahometans,</hi> raised and fomen<g ref="char:EOLhyphen"/>ted from their differing practise about their worship.</p>
+            <p>And as it is well observed, the Prophets amongst Gods people prophesied not of destruction, till the Kingdome came to be divided: a King of <hi>Israel,</hi> and a King of <hi>Judah;</hi> so it is worthy taking notice, what brought from God the division in the Kingdome; you shall finde that <hi>Solomon marrying strange wives,</hi>
+               <note place="margin">1 King. 11.1. &amp; 7.8.11.</note> he gave leave unto all of them, to have the service of their seve<g ref="char:EOLhyphen"/>rall Gods; <hi>wherefore the Lord said unto</hi> Solomon, <hi>foras<g ref="char:EOLhyphen"/>much as this is done by thee: I will surely rend the Kingdome from thee; and I will give it to thy servant; Solomon</hi> suffering divisions in Religion,
+<note place="margin">12.20.</note> punished with division of the King<g ref="char:EOLhyphen"/>dome in his sons days; <hi>Solomon</hi> tolerated the worship of of false Gods; and <hi>Rehoboam</hi> found ten Tribes revolting, and proving false unto him.</p>
+            <p>Seventhly, Doe we consider what great things <hi>God</hi> hath done for us? then I presume it will not be thought unrea<g ref="char:EOLhyphen"/>sonable, that those bee considered whom the <hi>Lord</hi> hath used as instruments working these great things for us, the Commanders, Officers and Souldiers. I hope the com<g ref="char:EOLhyphen"/>plaints are not so true as fame reports them, that many which have jeoparded their lives in this service, for want of pay, are hardly able to support the lives of themselves and families. When the Chronicle was read what <hi>Morde<g ref="char:EOLhyphen"/>cai</hi> the <hi>Jew</hi> had done for prevention of the treason against <hi>Ahashuerus,</hi>
+               <note place="margin">Esther 6.3</note> he asked <hi>what honour and dignity hath been done
+<pb n="30" facs="tcp:114039:19"/>to</hi> Mordecai <hi>for this;</hi> It cannot (blessed be God) be said, as his servants to him, <hi>there is nothing done for him,</hi> I hope our annals that shal record what great things the <hi>Lord</hi> hath done for us, shal not be without some lasting monument of what hath bin done, as for those Commanders and Soul<g ref="char:EOLhyphen"/>dieurs, by whose valour and faithfulnesse the Lord hath wrought these, so especially for the poore and maimed; I shall leave this, with only an honourable mention of that pious and charitable work of that vertuous Prince <hi>Edw.</hi> 6. who upon Bishop <hi>Ridleys</hi> Sermon exhorting to charity, set apart and endowed 3. great houses in <hi>London</hi> then at his disposing for three severall sorts of poore.</p>
+            <p>Eighthly, Hath God done great things for you? and that in a short time! then I trust Honoured Worthies Pe<g ref="char:EOLhyphen"/>titioners shall not wait long to receive a little from you; it may be read what <hi>Iob</hi> wished to himselfe; <hi>If he with-held the poore from their desire,</hi>
+               <note place="margin">Job 31.16.22, 23.</note>
+               <hi>or caused the eyes of the Widow to faile, Then let mine arme fall from my shoulder-blade, and mine arme be broken from the bone; for destruction from God was a terrour to me, and by reason of his highnesse I could not endure.</hi>
+            </p>
+            <p>The Parliaments of <hi>England</hi> are looked upon and resor<g ref="char:EOLhyphen"/>ted unto as that <hi>Poole of Bethesda in Ierusalem,</hi>
+               <note place="margin">John 1.2.4, 57.</note>
+               <hi>that had ver<g ref="char:EOLhyphen"/>tue to make whole all that stepped into it, of whatsoever disease they had;</hi> I hope none shall have cause to complaine, as that poore impotent man to Christ; I have had an infir<g ref="char:EOLhyphen"/>mity of many yeares continuance, yet is it curable, if I could get into this Poole; and I am come to it for cure, have waited long; yet here is my misery, Sir, <hi>I have no man when the water is troubled to put me into the Poole, but when I am comming, another steppeth in before me.</hi>
+            </p>
+            <p>It will be an honour, and is the earnest prayer of all the best affected; that we may say of this Parliament, as they in the Prophet:
+<note place="margin">Jer. 31.23.</note>
+               <hi>The Lord blesse thee O habitation of Iustice and Mountaine of holinesse;</hi> that in all Committees and pro<g ref="char:EOLhyphen"/>ceedings
+<pb n="31" facs="tcp:114039:19"/>may be found that in another Prophet,
+<note place="margin">Amos 5.24.</note>
+               <hi>Let judg<g ref="char:EOLhyphen"/>ment run down as waters, and righteousnes as mighty streams;</hi> Let justice as waters have its ordinary course, run in its proper Channell, no stoppage by delayes or Priviledge in reference to just debts; and let it be of such power, that like a mighty streame it may beare downe all oppositions of friends and greatnesse whatsoever; if it be a righteous cause, let it carry against how great or how many soever stand against it.</p>
+            <p>
+               <hi>I considered saith the Preacher,</hi>
+               <note place="margin">Eccl. 4.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>all the oppressions that are done under the sunne, and behold the teares of such as were oppressed, and they had no comforter;</hi> the word translated Teares, is well observed to be in the Hebrew, <hi>Lachryma, a Teare;</hi> It may bee either to shew that there should be so much compassion towards the afflicted, as one single teare or the first teare that they shed should winne reliefe, or as one observeth to shew the neglect of pity in those that have suffered the oppressed to waite and weepe so long to crave help, yet still delayed, as they could weep no more, had onely but one teare left, and it came from hence, be<g ref="char:EOLhyphen"/>cause the oppressed had no comforter to relieve them, the oppressed had friends to support them, and keep off hear<g ref="char:EOLhyphen"/>ings and execution of justice.</p>
+            <p>But however it may bee thought, that the tears which fall from the delayed and oppressed fall to the ground, yet let causers of these know, that their tears ascend so high as heaven, are there turned into falshes of lightning and thun<g ref="char:EOLhyphen"/>derbolts, and will come down in vengeance; the Lord by <hi>Moses</hi> assureth it,
+<note place="margin">Exod. 22.22, 23, 24.</note>
+               <hi>Ye shall not afflict any Widow or fatherlesse child; if you afflict them in any wise,</hi> (either by not doing justice or delaying it) <hi>and they cry at all unto me, I will sure<g ref="char:EOLhyphen"/>ly heare their cry; and my wrath shall wax hot, and I will kill you with the sword, and your wives shall be widowes, and your children fatherlesse.</hi>
+            </p>
+            <pb n="32" facs="tcp:114039:20"/>
+            <p> Observe how dangerous it is not to hear the cry of the af<g ref="char:EOLhyphen"/>flicted;
+<note place="margin">Iob. 34.28.</note>
+               <hi>Elihu</hi> saith that hereby <hi>they cause the cry of the poore to come unto God, and he heareth the cry of the afflicted;</hi> and their cry will bring downe wrath, even that of the sword; and surely we may justly feare, that the partial swaying the sword of Iustice in this kingdom, was not the least of those sins that provoked the Lord to draw out his sword of ven<g ref="char:EOLhyphen"/>geance; and further, the not hearing the cry of the afflict<g ref="char:EOLhyphen"/>ed, may not only find a deafe eare in God in times of di<g ref="char:EOLhyphen"/>stresse;
+<note place="margin">Pro. 31.13.</note>
+               <hi>Whoso stoppeth his eares at the cry of the poore, he also shall cry himselfe and not be heard;</hi> but also may keepe off mercy from theirs. It is one of the arguments that the Preacher useth to stir up unto works of charity and libe<g ref="char:EOLhyphen"/>rality; <hi>Give a portion to seven, and also to eight, for thou knowest not what evill shall be upon the earth;</hi> none knowing how God may hereafter deale with them or theirs, whither <hi>his sonnes come to honour, or be brought lowe,</hi> and that it may be just with God, that their widdowes and fatherlesse chil<g ref="char:EOLhyphen"/>dren may find as little succour and compassion from those they seek unto, as they formerly shewed to widdowes and fatherlesse.</p>
+            <p>It is a received rule, he that doth not hinder or restrain a sin or injury, when it is in his power, maketh them his own; and as it is said in reference to almes, a poore man is ready to starve, thou art able to relieve him, and doest it not, he dieth, thou art his deaths man, <hi>si non pavisti, occi<g ref="char:EOLhyphen"/>disti;</hi>
+               <note place="margin">Ambrose.</note> so he is wronged by some great person; they that have power in their hands to right him, and do it not, the wrong done becometh theirs, and they shal answer before Gods tribunall for wronging him.</p>
+            <p>And for the poorer sort that may flye to this Parliament shelter,
+<note place="margin">Iob. 29.13.13.</note> let me commend that practise of <hi>Job, I delivered the poore that cried, and the fatherlesse and him that had none to helpe him; the blessing of him that was ready to perish came
+<pb n="33" facs="tcp:114039:20"/>upon me, and I caused the widdowes heart to sing for joy.</hi> It may be some are fled to this high and Honourable Court, that in their estate and hopes are ready to perish through long and chargeable attendance; there is a blessing to bee had in relieving these perishing ones; oh that there might be a godly strife, who should step in, and by appearing for them get this blessing.</p>
+            <p>It is <hi>Solomons</hi> advice, <hi>Open thy mouth for the dumb,</hi>
+               <note place="margin">Pro. 31.8.9.</note> such as either cannot, or may not speake for themselves; and a<g ref="char:EOLhyphen"/>gaine <hi>open thy mouth, judge righteously, and plead the cause of the poore and neeay.</hi> It is an honourable memory, that <hi>Iames</hi> the 5th. King of <hi>Scots</hi> hath left behind him (as King <hi>Iames</hi> his grandchild relateth in his <hi>Basilicon doron</hi>) that he was called the poore mans King. It will not be the least honor to this Parliament, if amongst other those great things done by it, renowned it may be to posterity for being the poore mans Parliament, to right and relieve those that have no other meanes to right and relieve themselves, but by flying to this shelter.</p>
+            <p>It hath been a great honour to be the Kings Atturney, Sollicitor, or Serjeant; is it not far greater to be these unto Christ? who will one day say,
+<note place="margin">Mat. 25.40</note>
+               <hi>Inasmuch as ye have done it to one of these little ones, ye have done it to me.</hi>
+            </p>
+            <p>Great persons are in Scripture expressed by the Sunne, which affordeth his influence so well to the lowest shrub, as the talest Cedar, shines as comfortable upon the poorest cottage, as the stateliest palace. And I could wish that as great ones take some content in having their pictures re<g ref="char:EOLhyphen"/>sembling them (as they say) to the life, so in this they would resemble their pictures, which if drawne as they should, wil eye and looke towards the poorest and meanest person that lookes upon them; <hi>Radolphus Habspurgius</hi> see<g ref="char:EOLhyphen"/>ing some of his guard put by some poore persons that were comming towards him, was much displeased, charg<g ref="char:EOLhyphen"/>ing
+<pb n="34" facs="tcp:114039:21"/>them to suffer the poorest to have accesse unto him, saying that he was called to the empire not to be shut up in a chest,
+<note place="margin">Schichar<g ref="char:EOLhyphen"/>dus.</note> as reserved for some few, but to be where all might have free accesse unto him.</p>
+            <p>Ninthly, hath God done great things for us? let the se<g ref="char:EOLhyphen"/>rious consideration hereof worke in our soules a sad and deep humiliation as for our other sins, so for doing so little for God, that we have not improved our places, abilities, and opportunities so for God and his cause as wee ought and might have done; and who because of this may not justly lay his hand on his heart, and with <hi>Pharoahs</hi> Butler say,
+<note place="margin">Gen. 41.1.</note>
+               <hi>I do remember my faults this day.</hi>
+            </p>
+            <p>And surely we had not more cause to have former daies of humiliation to crave of God the doing of great things for us, then we have now to be humbled that we have done so little for <hi>God;</hi> hear the Lord by the Prophet, <hi>I will remember my covenant with thee,</hi>
+               <note place="margin">Ezech. 16.60.61.</note>
+               <hi>and I will establish unto thee an everlasting covenant; then thou shalt remember thy wayes and be ashamed;</hi> but what were those wayes, will be found in the former verse, <hi>thou hast despised the oath, in breaking the covenant;</hi> I kept my covenant with thee, therefore be ashamed when thou remembrest how thou hast broken with me. It hath been injoyned that the covenant should be read at the end of the last Sermon upon our daies of hu<g ref="char:EOLhyphen"/>miliation, and pitie it should be omitted, that if nothing in the Sermons, yet our breach of covenant might humble us, and send us away with bleeding hearts.</p>
+            <p>Tenthly, in the last place, hath <hi>God</hi> done great things for us? being truly humbled for former failings, and resolved to do in our places according to our utmost power, what these great things call for at our hands, be we incouraged to go on without fainting in <hi>Gods</hi> and the kingdoms cause, with all constancy and cheerfulnesse, notwithstanding all mountains of oppositions, and difficulties that may seeme
+<pb n="35" facs="tcp:114039:21"/>to obstruct the way; the due consideration of al the former passages of <hi>Gods</hi> providence and apperance, may much strengthen our faith in and dependance upon him for the time to come.</p>
+            <p>I have sometimes thought, what might bee the reason, why the Psalmist in two Psalmes doth ground his assu<g ref="char:EOLhyphen"/>rance of Gods help for his Church, upon the Lords mak<g ref="char:EOLhyphen"/>ing heaven and earth; <hi>Our help is in the name of the Lord,</hi>
+               <note place="margin">Psal. 122.2.124.8.</note>
+               <hi>which hath made heaven and earth;</hi> why did not the Church build their confidence rather upon particular experiences, as on that God which brought us out of <hi>Egypt,</hi> opened a passage for us through the red Sea, so miraculously led and fed us in the Wildernesse; drave out the Nations be<g ref="char:EOLhyphen"/>fore us in <hi>Canaan,</hi> by Grashoppers subdued Gyants, <hi>&amp;c.</hi> I conceive it was to support the Church against those three usuall grounds of distrust; either the work to be done is great far beyond our power; or Secondly, our wisdom failes, wee can see no probable meanes to expect it; or Thirdly, it may require so long a time,
+<note place="margin">Numb. 24.23.</note> as we may say with <hi>Balaam, alas who shall live when God doth this?</hi>
+            </p>
+            <p>The relying on that God who made heaven and earth, will help against all these.</p>
+            <p>First, Is the worke great? consider, was there ever so great a glorious a visible work done, as the making of this great and never sufficiently admired frame and fabrick of Heaven and earth, with all creatures in both? which yet the Lord made by a word speaking; he spake the Word and they were made.</p>
+            <p>Secondly, are we brought to such straits and extremities, that the Wisdome and Counsell even of the ablest are at a stand; and no humane probable way to bring our desires and designes to passe? Consider, was there ever any more unlikely meanes to produce such a world of won<g ref="char:EOLhyphen"/>ders in the variety and excellency of the creatures: then
+<pb n="34" facs="tcp:114039:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="35" facs="tcp:114039:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="36" facs="tcp:114039:23"/>out of that confused <hi>Chaos?</hi> Can that Almighty Creator, which made all things of nothing, want means to bring to passe in heaven and earth whatsoever he pleaseth?</p>
+            <p>Thirdly, Are there so many great things to be done, as we may not only say with <hi>Ezra, neither is this a worke of a day or two,</hi>
+               <note place="margin">Ezia 10.13. Ioes. 2.2.</note> but rather with <hi>Joel,</hi> in a another case, a work that may hold <hi>to the years of many generations,</hi> if the same spirit of perversenesse should be found in succeeding ages; as in the present, whereof we may too truly com<g ref="char:EOLhyphen"/>plaine,
+<note place="margin">Ier. 51.9.15.18.</note> as the Lord by the Prophet, <hi>we would have healed Babylon, but she is not healed;</hi> and yet which is worse, and makes the wound in a manner at present incurable, <hi>it re<g ref="char:EOLhyphen"/>fuseth to be healed?</hi>
+            </p>
+            <p>Yet consider, however the Lord is slow to wrath, and may be long in destroying; as that sinfull <hi>Iericho</hi> devoted to destruction, not destroyed in lesse then 7. dayes com<g ref="char:EOLhyphen"/>passing; but for works of mercy, the Lord made a com<g ref="char:EOLhyphen"/>pleate world in six dayes;
+<note place="margin">Psal. 102.13. Isa. 60.22.</note> when <hi>the time to favour and build up Zion is now,</hi> that shall be made good in the Prophet; <hi>a little one shall become a thousand, and a small one a strong Nation,</hi> I <hi>the Lord will hasten it in his time.</hi>
+            </p>
+            <p>I could turn you to severall places, where the Prophets <hi>Isaiah</hi> and <hi>Ieremie</hi> raise arguments of confidence in God from the Creation,
+<note place="margin">Ier. 3.17.</note> as <hi>Isa.</hi> 44.24.25, 26.45.17.18 I will instance only in that of <hi>Ieremy, Ah Lord God thou hast made the heaven and the earth by thy great power and stretched out arme, and there is nothing too hard for thee.</hi> Will we then rest on God for finishing every work of Mercy, which he hath begun, and that from the consideration of what great things he hath already done, let me for our better incou<g ref="char:EOLhyphen"/>ragement close up all with that of Christ to <hi>Nathaniel,</hi>
+               <note place="margin">Iohn 1.50.</note>
+               <hi>Be<g ref="char:EOLhyphen"/>cause I said unto thee,</hi> I <hi>saw thee under the fig-tree, beleevest thou? thou shalt see greater things then these:</hi> That we may have this faith and trust in God, and find this grace and mercy from God, returne we with our prayers and praises unto the Lord.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
